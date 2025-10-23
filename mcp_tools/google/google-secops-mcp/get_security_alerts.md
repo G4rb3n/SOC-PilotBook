@@ -1,0 +1,1 @@
+从 Chronicle 检索 “安全告警（security alerts）” 列表。用于查看近期、未处理或指定条件的告警。 
